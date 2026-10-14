@@ -1,5 +1,6 @@
 # 🧬 Tiny Space Travelers
 ### A beginner bioinformatics workshop with NASA yeast data
+Presentation: https://canva.link/nzg6tbxklrpntqy
 Source: https://osdr.nasa.gov/bio/repo/data/studies/OSD-964
 
 How can tiny organisms help us explore questions about space radiation?
