@@ -41,7 +41,7 @@ These experiments took place **on Earth**, supporting research relevant to space
 - Select samples by radiation dose.
 - Calculate average readings.
 - Create and interpret graphs.
-- Explain what the evidence can—and cannot—tell us.
+- Explain what the evidence can and cannot tell us.
 
 ## 📂 What are the files?
 
